@@ -1,4 +1,5 @@
----
+--- fahdd921@gmail.com
+Password
 title: Set up Git
 redirect_from:
   - /git-installation-redirect/
